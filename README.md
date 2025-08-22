@@ -9,3 +9,20 @@ This file len() count the letter or number.
 
 [activity4](https://github.com/JohnAxel04/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/0a09579c4837a26c356b6c32c775fc4277256af7/activity4.py)
 At this file i use eval() this where we though about Data types.
+
+[activity5]()
+
+
+[activity6]()
+
+
+[activity7]()
+
+
+[activity8]()
+
+
+[activity9]()
+
+
+[activity10]()
