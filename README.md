@@ -11,18 +11,19 @@ This file len() count the letter or number.
 At this file i use eval() this where we though about Data types.
 
 [activity5](https://github.com/JohnAxel04/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/bd3d6a37ed27964ae2ac3666e1732e3e0c62c5ae/activity5.py)
-
+identifying Data type using type()
 
 [activity6](https://github.com/JohnAxel04/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/17f6019733925d440e48f40bea244372e52c5c24/activity6.py)
-
+The use of Arithmetic Operators i also do a small calculator here
 
 [activity7](https://github.com/JohnAxel04/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/17f6019733925d440e48f40bea244372e52c5c24/activity7.py)
-
+This is where i use assignment Operators
 
 [activity8](https://github.com/JohnAxel04/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/17f6019733925d440e48f40bea244372e52c5c24/activity8.py)
-
+This is Relational Operators
 
 [activity9](https://github.com/JohnAxel04/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/17f6019733925d440e48f40bea244372e52c5c24/activity9.py)
-
+Then for this is the logical operators
 
 [activity10](https://github.com/JohnAxel04/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/17f6019733925d440e48f40bea244372e52c5c24/activity10.py)
+And here is the selection statement
