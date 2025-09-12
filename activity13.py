@@ -1,7 +1,2 @@
-nu = 0
-
-for j in range(1 , 11):
-    numbr = eval(input("Please put any number: "))
-    nu += numbr
-    print("new value" ,nu)
-print(nu)
+for u in range(20 ,0 , -1):
+    print(u ,"hello world")
