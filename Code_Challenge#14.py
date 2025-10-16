@@ -23,3 +23,4 @@ while ys == True:
         continue
 print(f"Total of all odd number: {odd}")
 print(f"All odd number: {numb}")
+
