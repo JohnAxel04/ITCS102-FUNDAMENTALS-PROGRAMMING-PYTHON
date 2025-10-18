@@ -48,4 +48,5 @@ for yty in range(1,7):
         print(" ",end=" ")
     for wer in range(1,9):
         print("",end="▀")
+
     print()
