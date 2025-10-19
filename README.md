@@ -27,3 +27,29 @@ Then for this is the logical operators
 
 [activity10](https://github.com/JohnAxel04/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/17f6019733925d440e48f40bea244372e52c5c24/activity10.py)
 And here is the selection statement
+
+[activity11]
+
+[activity12]
+
+[activity13]
+
+[activity14]
+
+[activity15]
+
+[activity16]
+
+[activity17]
+
+[activity18]
+
+[activity19]
+
+[activity20]
+
+[activity21]
+
+[activity22]
+
+[activity23]
