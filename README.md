@@ -41,6 +41,7 @@ Summation of Number With For Loop
 For Loop Counting in Reverse
 
 [activity15](https://github.com/JohnAxel04/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/67bd054deb2b3363fa3d6db688b98ec84f61885a/Activity15.py)
+Printing using String Formatting
 
 [activity16](https://github.com/JohnAxel04/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/67bd054deb2b3363fa3d6db688b98ec84f61885a/Activity16.py)
 
