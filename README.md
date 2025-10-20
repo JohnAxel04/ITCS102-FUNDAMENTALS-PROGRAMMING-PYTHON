@@ -32,6 +32,7 @@ And here is the selection statement
 Temperature Checker Using If else Elif
 
 [activity12](https://github.com/JohnAxel04/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/67bd054deb2b3363fa3d6db688b98ec84f61885a/Activity12.py)
+For Loop Printing Hello World 10x
 
 [activity13](https://github.com/JohnAxel04/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/67bd054deb2b3363fa3d6db688b98ec84f61885a/Activity13.py)
 
