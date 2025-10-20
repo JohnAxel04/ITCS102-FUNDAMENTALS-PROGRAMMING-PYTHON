@@ -29,6 +29,7 @@ Then for this is the logical operators
 And here is the selection statement
 
 [activity11](https://github.com/JohnAxel04/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/67bd054deb2b3363fa3d6db688b98ec84f61885a/Activity11.py)
+Temperature Checker Using If else Elif
 
 [activity12](https://github.com/JohnAxel04/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/67bd054deb2b3363fa3d6db688b98ec84f61885a/Activity12.py)
 
