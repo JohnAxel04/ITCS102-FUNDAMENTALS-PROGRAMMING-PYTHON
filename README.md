@@ -50,6 +50,7 @@ For Loop With End=""
 Nested Loop
 
 [activity18](https://github.com/JohnAxel04/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/67bd054deb2b3363fa3d6db688b98ec84f61885a/Activity18.py)
+First step to make a Diamond most likely space for it
 
 [activity19](https://github.com/JohnAxel04/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/67bd054deb2b3363fa3d6db688b98ec84f61885a/Activity19.py)
 
