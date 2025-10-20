@@ -38,6 +38,7 @@ For Loop Printing Hello World 10x
 Summation of Number With For Loop
 
 [activity14](https://github.com/JohnAxel04/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/67bd054deb2b3363fa3d6db688b98ec84f61885a/Activity14.py)
+For Loop Counting in Reverse
 
 [activity15](https://github.com/JohnAxel04/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/67bd054deb2b3363fa3d6db688b98ec84f61885a/Activity15.py)
 
