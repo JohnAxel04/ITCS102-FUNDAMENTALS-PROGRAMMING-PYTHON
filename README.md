@@ -47,6 +47,7 @@ Printing using String Formatting
 For Loop With End=""
 
 [activity17](https://github.com/JohnAxel04/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/67bd054deb2b3363fa3d6db688b98ec84f61885a/Activity17.py)
+Nested Loop
 
 [activity18](https://github.com/JohnAxel04/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/67bd054deb2b3363fa3d6db688b98ec84f61885a/Activity18.py)
 
