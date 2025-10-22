@@ -11,9 +11,9 @@ while mn == True:
     anime.append(num) #all title that put will go to the list
     if num == "exit": #stopper
         print("All done,You are now exiting!! ")
-        anime.pop()
-        break
+        anime.pop() #will remove the string exit to list
+        break    #to stop the loop
 
-print(f"Here All the Title of your Anime: ") #will print all the anime u putted
-for r in anime:
+print(f"Here All the Title of your Anime: ") 
+for r in anime:     #will print all the anime u putted,from up to down
     print(f"- {r}")
