@@ -53,10 +53,13 @@ Nested Loop
 First step to make a Diamond most likely space for it
 
 [activity19](https://github.com/JohnAxel04/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/67bd054deb2b3363fa3d6db688b98ec84f61885a/Activity19.py)
+Simple Nested Loop
 
-[activity20]
+[activity20](https://github.com/JohnAxel04/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/86a654183af83c47da2d2b004ceda9818efdd1e5/Activity20.py)
+Nested Loop with different Design
 
 [activity21](https://github.com/JohnAxel04/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/67bd054deb2b3363fa3d6db688b98ec84f61885a/Activity21.py)
+While Loop Yes or No
 
 [activity22]
 
