@@ -1,3 +1,5 @@
+#
+
 xel = eval(input("Put something(1-100): "))
 print("The Data type of something is", type(xel))
 
