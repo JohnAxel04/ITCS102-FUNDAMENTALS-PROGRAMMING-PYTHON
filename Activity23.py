@@ -14,6 +14,6 @@ for i in nm:
 mi = 'John Axel De Leon'
 for u in mi:
     print(u)    #Will print my name from j to n
-
+print("\nReversed\n")
 for q in mi[::-1]:  #will print my name in reverse from n to j
     print(q)
