@@ -1,3 +1,5 @@
+
+
 #Grocery
 print("---------------------------\n        Welcome \n---------------------------")
 name = input("What is your Name? ")
@@ -14,3 +16,4 @@ if pwd.lower() == "yes":
 	print("Hello", name, "\nItem: ",item, "\nQuantity: ",many,"\nPrice each: ",fr,"\nTotal: ",man ,"\nDiscount:",equal,"\nTotal w/discount: ",more)
 else:
 	print("Hello", name, "\nItem: ",item, "\nQuantity: ",many,"\nPrice each: ",fr,"\nTotal: ",man ,"\nDiscount:","\nTotal w/discount: ",man)
+
