@@ -1,3 +1,5 @@
+
+
 p = 0
 
 for u in range(1 ,11 ,1):
@@ -5,3 +7,4 @@ for u in range(1 ,11 ,1):
     p += cm
     print(p ,"New value of",cm)
 print("total", p)
+
