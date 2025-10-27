@@ -1,3 +1,5 @@
+
+
 #Temperature checker
 
 tmp = eval(input("what temp is it now? "))
@@ -16,3 +18,4 @@ elif tmp >= 51:
     print("The temp is boiling hot")
 else:
     print("error")
+
