@@ -1,3 +1,5 @@
+
+
 utangko = 1000
 perako = 500
 
@@ -7,4 +9,5 @@ cash = 50
 payment = 80
 
 print((cash) <= (payment))
+
 
