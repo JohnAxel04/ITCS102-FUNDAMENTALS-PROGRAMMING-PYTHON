@@ -63,4 +63,4 @@ While Loop Yes or No
 
 [activity22]
 
-[activity23]
+[activity23](https://github.com/JohnAxel04/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/a02262e8573bb187dee3fd39f2518df35f4a6ab0/Activity23.py)
