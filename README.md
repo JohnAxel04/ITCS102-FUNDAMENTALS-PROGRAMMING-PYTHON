@@ -61,7 +61,8 @@ Nested Loop with different Design
 [activity21](https://github.com/JohnAxel04/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/67bd054deb2b3363fa3d6db688b98ec84f61885a/Activity21.py)
 While Loop Yes or No
 
-[activity22]
+[activity22](https://github.com/JohnAxel04/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/6dea9e8c60d11225e8ec9133bac8b7b535e01f46/Activity22.py)
+Using the function Random
 
 [activity23](https://github.com/JohnAxel04/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/a02262e8573bb187dee3fd39f2518df35f4a6ab0/Activity23.py)
 List and Some Functions
