@@ -66,3 +66,19 @@ Using the function Random
 
 [activity23](https://github.com/JohnAxel04/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/a02262e8573bb187dee3fd39f2518df35f4a6ab0/Activity23.py)
 List and Some Functions
+
+[activity24]
+
+[activity24.1]
+
+[activity25]
+
+[activity25.1]
+
+[activity25.2]
+
+[activity26]
+
+[activity27]
+
+[activity28]
