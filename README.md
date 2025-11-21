@@ -67,18 +67,18 @@ Using the function Random
 [activity23](https://github.com/JohnAxel04/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/a02262e8573bb187dee3fd39f2518df35f4a6ab0/Activity23.py)
 List and Some Functions
 
-[activity24]
+[activity24](https://github.com/JohnAxel04/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/537e7c207d9b98dd3fb6a1cb2a0fb2fff8a5c9ae/Activity24.py)
 
-[activity24.1]
+[activity24.1](https://github.com/JohnAxel04/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/537e7c207d9b98dd3fb6a1cb2a0fb2fff8a5c9ae/Activity24_1.py)
 
-[activity25]
+[activity25](https://github.com/JohnAxel04/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/537e7c207d9b98dd3fb6a1cb2a0fb2fff8a5c9ae/Activity25.py)
 
-[activity25.1]
+[activity25.1](https://github.com/JohnAxel04/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/537e7c207d9b98dd3fb6a1cb2a0fb2fff8a5c9ae/Activity25_1.py)
 
-[activity25.2]
+[activity25.2](https://github.com/JohnAxel04/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/537e7c207d9b98dd3fb6a1cb2a0fb2fff8a5c9ae/Activity25_2.py)
 
-[activity26]
+[activity26](https://github.com/JohnAxel04/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/537e7c207d9b98dd3fb6a1cb2a0fb2fff8a5c9ae/Activity26.py)
 
-[activity27]
+[activity27](https://github.com/JohnAxel04/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/537e7c207d9b98dd3fb6a1cb2a0fb2fff8a5c9ae/Activity27.py)
 
-[activity28]
+[activity28]()
