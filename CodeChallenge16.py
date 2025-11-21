@@ -1,9 +1,10 @@
 import os
+import json
 os.system('cls') #To clear the menu when putted something
 diction = {} #empty dictionary
 
 while True: 
-    print("Select From options Below\nA - Add Information\nB - Print all\nc - Search Information\nd - Delete Information\ne - To Modify Information\nE - Exit") #Menu List
+    print("Select From options Below\nA - Add Information\nB - Print all\nc - Search Information\nd - Delete Information\ne - To Edit File\nF - Export Data\nP - Exit") #Menu List
 
     new = input("Typing...       ").lower() #lower so the putted letter can be lower case or upper case
 
@@ -22,17 +23,16 @@ while True:
         os.system('cls')
         srch = input("key of the information: ")
 
-        for q in diction.keys(): #Search, For loop will help us connect to the dictionary
-            if  srch in diction.keys(): #it will check if  the Input keys is in the dictionary
-                print("record Found")
-
-                print("Record Info")
-                print("--------------------------")
-                for i in diction[srch]:
-                    print(i)
-                print("--------------------------")
-            else:
-                print("Information not Found")  
+        # for q in diction(): #Search, For loop will help us connect to the dictionary
+        if  srch in diction.keys(): #it will check if  the Input keys is in the dictionary
+            print("record Found")
+        
+            print("Record Info")
+            print("--------------------------")
+            print(f"Information: {diction[srch]}")
+            print("--------------------------")
+        else:
+            print("Information not Found")  
         continue
     elif new == "b":
         os.system('cls')
@@ -42,21 +42,57 @@ while True:
     elif new == "d":
         os.system('cls')
         print("Delete existing record")
-        srch1 = input("key of the information: ")
-        if  srch1 in diction.keys(): #it will check if  the Input keys is in the dictionary
+        srch = input("key of the information: ")
+        if  srch in diction.keys(): #it will check if  the Input keys is in the dictionary
             
 
             print("Record deleted")
             print("--------------------------")
-            for i in diction[srch1]:
+            for i in diction[srch]:
                     print(f": {i}")
 
-            diction.pop(srch1)
+            diction.pop(srch)
             print("Record deleted")
         else:
             print("Information cannot found") 
         continue
     elif new == "e":
+        os.system('cls')
+        print("Record Modification")
+        
+        srch = input("key of the information: ")
+
+        for a in diction[srch]:
+                    print(f": {a}")
+
+        
+        fname = input("Input Student First Name: ")
+        lname = input("Input Student Last Name: ")
+        email = input("Input Student Email: ")
+
+        diction[srch][0] = fname
+        diction[srch][1] = lname
+        diction[srch][2] = email
+
+        print("Data Updated")
+
+        continue
+    elif new == "f":
+        os.system('cls')
+        with open("diction.json","w") as new_file:
+            json.dump(diction,new_file, indent=4)
+            print("Data Exported")
+        continue
+    elif new == "g":
+        os.system('cls')
+        with open("diction.json","r") as new_file:
+            diction = json.load(new_file)
+
+        diction_json = json.load(new_file)
+        print("Data Imported")
+
+        continue
+    elif new == "p":
         print("Exiting")
         break
     else:
