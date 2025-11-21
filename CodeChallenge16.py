@@ -4,7 +4,7 @@ os.system('cls') #To clear the menu when putted something
 diction = {} #empty dictionary
 
 while True: 
-    print("Select From options Below\nA - Add Information\nB - Print all\nc - Search Information\nd - Delete Information\ne - To Edit File\nF - Export Data\nP - Exit") #Menu List
+    print("Select From options Below\nA - Add Information\nB - Print all\nc - Search Information\nd - Delete Information\ne - To Edit File\nF - Export Data\nG - Import Data\nP - Exit") #Menu List
 
     new = input("Typing...       ").lower() #lower so the putted letter can be lower case or upper case
 
@@ -13,9 +13,10 @@ while True:
         ky = input("Key to call for the Information: ")
         fname = input("Input Student First Name: ")
         lname = input("Input Student Last Name: ")
+        course = input("Input Course: ")
         email = input("Input Student Email: ")
 
-        diction[ky] = [fname,lname,email] #It will add multiple data to the dictionary 
+        diction[ky] = [fname,lname,course,email] #It will add multiple data to the dictionary 
         print("Data saved")
         os.system('cls')
         continue
@@ -23,16 +24,18 @@ while True:
         os.system('cls')
         srch = input("key of the information: ")
 
-        # for q in diction(): #Search, For loop will help us connect to the dictionary
-        if  srch in diction.keys(): #it will check if  the Input keys is in the dictionary
-            print("record Found")
-        
-            print("Record Info")
-            print("--------------------------")
-            print(f"Information: {diction[srch]}")
-            print("--------------------------")
-        else:
-            print("Information not Found")  
+        for a in diction.keys():# for q in diction(): #Search, For loop will help us connect to the dictionary
+            if  srch in diction.keys(): #it will check if  the Input keys is in the dictionary
+                print("record Found")
+            
+                print("Record Info")
+                print("--------------------------")
+                for y in diction[srch]:
+                     print(f": {y}")
+                print("--------------------------")
+            else:
+                print("Information not Found")  
+            break
         continue
     elif new == "b":
         os.system('cls')
@@ -68,11 +71,13 @@ while True:
         
         fname = input("Input Student First Name: ")
         lname = input("Input Student Last Name: ")
+        course = input("Input Course: ")
         email = input("Input Student Email: ")
 
         diction[srch][0] = fname
         diction[srch][1] = lname
-        diction[srch][2] = email
+        diction[srch][2] = course
+        diction[srch][3] = email
 
         print("Data Updated")
 
@@ -86,9 +91,9 @@ while True:
     elif new == "g":
         os.system('cls')
         with open("diction.json","r") as new_file:
-            diction = json.load(new_file)
+            diction_json = json.load(new_file)
 
-        diction_json = json.load(new_file)
+        diction = diction_json
         print("Data Imported")
 
         continue
