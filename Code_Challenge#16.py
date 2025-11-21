@@ -1,3 +1,4 @@
+
 import os
 import json
 os.system('cls') #To clear the menu when putted something
@@ -103,5 +104,6 @@ while True:
     else:
         print("Invalid Input")
     
+
 
 
