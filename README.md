@@ -81,4 +81,4 @@ List and Some Functions
 
 [activity27](https://github.com/JohnAxel04/ITCS102-FUNDAMENTALS-PROGRAMMING-PYTHON/blob/537e7c207d9b98dd3fb6a1cb2a0fb2fff8a5c9ae/Activity27.py)
 
-[activity28]()
+[activity28](.   .)
